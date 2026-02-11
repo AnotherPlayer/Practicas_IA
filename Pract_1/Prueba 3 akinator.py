@@ -11,7 +11,7 @@ def pedir_respuesta(pregunta):
 opcion = "1"
 
 while opcion == "1":
-    print("Bienvenido al Akinator de Rick y Morty ... by David y Diego")
+    print("Bienvenido al Akinator de Rick y Morty ... de David y Diego")
     print("Piensa en uno de los 15 personajes de la lista vista en clase")
     print("Responde con 'si' o 'no'")
     print("-" * 30)
