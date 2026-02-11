@@ -6,14 +6,13 @@ from PyQt6.QtGui import QFont
 
 from back import LogicaGato
 
-# ==========================================
 # VENTANA DEL MENÚ
-# ==========================================
+
 class MenuPrincipal(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Menú Principal")
-        self.setFixedSize(300, 250)
+        self.setFixedSize(600, 500)
 
         widget_central = QWidget()
         self.setCentralWidget(widget_central)
@@ -25,13 +24,13 @@ class MenuPrincipal(QMainWindow):
         titulo.setFont(QFont("Arial", 20, QFont.Weight.Bold))
         layout.addWidget(titulo)
 
-        # Botón 1: PvP
+        # Botón PvP
         btn_pvp = QPushButton("2 Jugadores")
         btn_pvp.setFont(QFont("Arial", 14))
         btn_pvp.clicked.connect(lambda: self.abrir_juego("PvP"))
         layout.addWidget(btn_pvp)
 
-        # Botón 2: IA
+        # Botón IA
         btn_pvia = QPushButton("Contra la IA (Ella inicia)")
         btn_pvia.setFont(QFont("Arial", 14))
         btn_pvia.clicked.connect(lambda: self.abrir_juego("PvIA"))
@@ -42,10 +41,10 @@ class MenuPrincipal(QMainWindow):
         self.juego.show()
         self.close()
 
-# ==========================================
 # VENTANA DEL JUEGO
-# ==========================================
+
 class InterfazGato(QMainWindow):
+
     def __init__(self, modo, ventana_menu):
         super().__init__()
         self.logica = LogicaGato()
@@ -164,6 +163,7 @@ class InterfazGato(QMainWindow):
         self.ventana_menu.show()
 
 if __name__ == "__main__":
+    
     app = QApplication(sys.argv)
     menu = MenuPrincipal()
     menu.show()

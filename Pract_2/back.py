@@ -1,6 +1,7 @@
 import random
 
 class LogicaGato:
+    
     def __init__(self):
         self.reiniciar_estado()
 
