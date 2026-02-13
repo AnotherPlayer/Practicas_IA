@@ -4,7 +4,7 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QPushButton, QLabel,
 from PyQt6.QtCore import Qt, QTimer
 from PyQt6.QtGui import QFont
 
-from back import LogicaGato
+from backLedge import LogicaGato
 
 # VENTANA DEL MENÚ
 
@@ -12,7 +12,7 @@ class MenuPrincipal(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Menú Principal")
-        self.setFixedSize(600, 500)
+        self.setFixedSize(300, 250)
 
         widget_central = QWidget()
         self.setCentralWidget(widget_central)
@@ -31,7 +31,7 @@ class MenuPrincipal(QMainWindow):
         layout.addWidget(btn_pvp)
 
         # Botón IA
-        btn_pvia = QPushButton("Contra la IA (Ella inicia)")
+        btn_pvia = QPushButton("Contra la IA")
         btn_pvia.setFont(QFont("Arial", 14))
         btn_pvia.clicked.connect(lambda: self.abrir_juego("PvIA"))
         layout.addWidget(btn_pvia)
