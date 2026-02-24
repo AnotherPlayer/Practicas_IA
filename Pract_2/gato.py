@@ -35,7 +35,7 @@ class Gato:
         self.btn_reset = tk.Button(root, text="Reiniciar", command=self.reiniciar)
         self.btn_reset.grid(row=5, column=0, columnspan=3, pady=10)
 
-        # 🔹 LA PC EMPIEZA EN EL CENTRO
+        #LA PC EMPIEZA EN EL CENTRO
         self.root.after(200, self.inicio_pc)
 
     def inicio_pc(self):
