@@ -64,8 +64,22 @@ def mover():
     for i, lugar in enumerate(opciones):
         print(i + 1, "-", lugar)
 
-    eleccion = int(input("Elegir destino: ")) - 1
-    jugador["pos"] = opciones[eleccion]
+    entrada = input("Elegir destino: ")
+    
+    try:
+        # Intentamos convertir la entrada a número entero
+        eleccion = int(entrada) - 1
+        
+        # Verificamos que el número esté dentro de las opciones válidas
+        if 0 <= eleccion < len(opciones):
+            jugador["pos"] = opciones[eleccion]
+        else:
+            print("\nNúmero fuera de rango. El turno no cuenta, intenta de nuevo.")
+            # Al no cambiar jugador["pos"], el jugador simplemente se queda donde está
+            
+    except ValueError:
+        # Si el usuario ingresa letras o símbolos, cae aquí en lugar de cerrar el juego
+        print("\nEntrada inválida. Por favor, ingresa solo el número de tu destino.")
 
 def evento():
 
@@ -641,9 +655,6 @@ def evento():
         else:
             print("\nLlegas y ves un cofre, pero no cuentas con la llave necesaria para abrirlo ")        
 
-            
-
-
 def juego():
 
     print("RPG de Exploración")
@@ -662,6 +673,5 @@ def juego():
         if op == "1":
             mover()
             evento()
-
    
 juego()

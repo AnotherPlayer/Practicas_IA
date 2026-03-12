@@ -1,0 +1,289 @@
+Linea,Estación,x,y
+1,Pinar de Chamartín,-3.6668,40.4801
+1,Bambú,-3.6761,40.4764
+1,Chamartín,-3.6826,40.4722
+1,Plaza de Castilla,-3.6892,40.4668
+1,Valdeacederas,-3.6951,40.4632
+1,Tetuán,-3.6978,40.4601
+1,Alvarado,-3.7013,40.4539
+1,Cuatro Caminos,-3.7042,40.4475
+1,Ríos Rosas,-3.6987,40.4418
+1,Iglesia,-3.6989,40.4355
+1,Bilbao,-3.7022,40.4289
+1,Tribunal,-3.7005,40.426
+1,Gran Vía,-3.7018,40.42
+1,Sol,-3.7033,40.4169
+1,Tirso de Molina,-3.7045,40.4128
+1,Antón Martín,-3.6989,40.4116
+1,Estación del Arte,-3.693,40.4085
+1,Atocha,-3.6874,40.4005
+1,Menéndez Pelayo,-3.6806,40.4024
+1,Pacífico,-3.6749,40.3989
+1,Puente de Vallecas,-3.6677,40.3952
+1,Nueva Numancia,-3.6621,40.3934
+1,Portazgo,-3.6552,40.3908
+1,Buenos Aires,-3.6493,40.3887
+1,Alto del Arenal,-3.6434,40.3861
+1,Miguel Hernández,-3.6369,40.3831
+1,Sierra de Guadalupe,-3.6262,40.3792
+1,Villa de Vallecas,-3.6225,40.3781
+1,Congosto,-3.6186,40.3725
+1,La Gavia,-3.612,40.3683
+1,Las Suertes,-3.6,40.3633
+1,Valdecarros,-3.593,40.3608
+2,Las Rosas,-3.6051,40.4235
+2,Avenida de Guadalajara,-3.6083,40.4221
+2,Alsacia,-3.6148,40.4184
+2,La Almudena,-3.63,40.4228
+2,La Elipa,-3.645,40.4255
+2,Ventas,-3.6534,40.4308
+2,Manuel Becerra,-3.6631,40.4282
+2,Goya,-3.6751,40.4243
+2,Príncipe de Vergara,-3.6802,40.4228
+2,Retiro,-3.6865,40.4206
+2,Banco de España,-3.6946,40.419
+2,Sevilla,-3.6994,40.4178
+2,Sol,-3.7033,40.4169
+2,Ópera,-3.709,40.4182
+2,Santo Domingo,-3.7088,40.4214
+2,Noviciado,-3.7061,40.4255
+2,San Bernardo,-3.7033,40.43
+2,Quevedo,-3.7042,40.4336
+2,Canal,-3.7047,40.4391
+2,Cuatro Caminos,-3.7042,40.4475
+3,Villaverde Alto,-3.7126,40.3408
+3,San Cristóbal,-3.6961,40.3421
+3,Villaverde Bajo-Cruce,-3.6933,40.3508
+3,Ciudad de los Ángeles,-3.6958,40.3584
+3,San Fermín-Orcasur,-3.6952,40.3703
+3,Hospital 12 de Octubre,-3.6955,40.3758
+3,Almendrales,-3.698,40.3831
+3,Legazpi,-3.6947,40.3912
+3,Delicias,-3.6935,40.3986
+3,Palos de la Frontera,-3.6946,40.4042
+3,Embajadores,-3.7022,40.4055
+3,Lavapiés,-3.7006,40.4087
+3,Sol,-3.7033,40.4169
+3,Callao,-3.7056,40.4202
+3,Plaza de España,-3.7122,40.423
+3,Ventura Rodríguez,-3.7145,40.4265
+3,Argüelles,-3.7169,40.4302
+3,Moncloa,-3.7196,40.4345
+4,Argüelles,-3.7169,40.4302
+4,San Bernardo,-3.7033,40.43
+4,Bilbao,-3.7022,40.4289
+4,Alonso Martínez,-3.696,40.4276
+4,Colón,-3.6908,40.4254
+4,Serrano,-3.6859,40.4251
+4,Velázquez,-3.6811,40.4248
+4,Goya,-3.6751,40.4243
+4,Lista,-3.675,40.43
+4,Diego de León,-3.6752,40.4344
+4,Avenida de América,-3.6766,40.4388
+4,Prosperidad,-3.6736,40.4439
+4,Alfonso XIII,-3.6659,40.4477
+4,Avenida de la Paz,-3.6565,40.4533
+4,Arturo Soria,-3.6552,40.4558
+4,Esperanza,-3.6457,40.4593
+4,Canillas,-3.6339,40.4632
+4,Mar de Cristal,-3.6267,40.4695
+4,San Lorenzo,-3.6397,40.4735
+4,Parque de Santa María,-3.6468,40.4764
+4,Hortaleza,-3.6542,40.4728
+4,Manoteras,-3.6644,40.4769
+4,Pinar de Chamartín,-3.6668,40.4801
+5,Alameda de Osuna,-3.5878,40.4572
+5,El Capricho,-3.5936,40.4529
+5,Canillejas,-3.6083,40.4497
+5,Torre Arias,-3.6166,40.4435
+5,Suanzes,-3.6277,40.4402
+5,Ciudad Lineal,-3.6385,40.438
+5,Pueblo Nuevo,-3.6441,40.4357
+5,Quintana,-3.6496,40.4335
+5,El Carmen,-3.6575,40.4304
+5,Ventas,-3.6534,40.4308
+5,Diego de León,-3.6752,40.4344
+5,Núñez de Balboa,-3.6826,40.4319
+5,Rubén Darío,-3.6883,40.4322
+5,Alonso Martínez,-3.696,40.4276
+5,Chueca,-3.698,40.4228
+5,Gran Vía,-3.7018,40.42
+5,Callao,-3.7056,40.4202
+5,Ópera,-3.709,40.4182
+5,La Latina,-3.7081,40.4111
+5,Puerta de Toledo,-3.7118,40.4069
+5,Acacias,-3.7032,40.4038
+5,Pirámides,-3.7113,40.4011
+5,Marqués de Vadillo,-3.7163,40.3976
+5,Urgel,-3.723,40.3916
+5,Oporto,-3.7303,40.3884
+5,Vista Alegre,-3.7391,40.3883
+5,Carabanchel,-3.7455,40.3883
+5,Eugenia de Montijo,-3.7495,40.3842
+5,Aluche,-3.7608,40.386
+5,Empalme,-3.7651,40.3905
+5,Campamento,-3.7681,40.3942
+5,Casa de Campo,-3.7602,40.4032
+6,Cuatro Caminos,-3.7042,40.4475
+6,Nuevos Ministerios,-3.6918,40.4455
+6,República Argentina,-3.6834,40.4449
+6,Avenida de América,-3.6766,40.4388
+6,Diego de León,-3.6752,40.4344
+6,Manuel Becerra,-3.6631,40.4282
+6,O'Donnell,-3.6666,40.4225
+6,Sainz de Baranda,-3.6698,40.415
+6,Conde de Casal,-3.6713,40.4068
+6,Pacífico,-3.6749,40.3989
+6,Méndez Álvaro,-3.6806,40.3947
+6,Arganzuela-Planetario,-3.6896,40.3911
+6,Legazpi,-3.6947,40.3912
+6,Usera,-3.7042,40.3864
+6,Plaza Elíptica,-3.7166,40.385
+6,Opañel,-3.7226,40.3866
+6,Oporto,-3.7303,40.3884
+6,Carpetana,-3.7408,40.393
+6,Laguna,-3.7441,40.3995
+6,Lucero,-3.7445,40.4046
+6,Alto de Extremadura,-3.736,40.4098
+6,Puerta del Ángel,-3.7268,40.4135
+6,Príncipe Pío,-3.72,40.421
+6,Argüelles,-3.7169,40.4302
+6,Moncloa,-3.7196,40.4345
+6,Ciudad Universitaria,-3.7265,40.4435
+6,Vicente Aleixandre,-3.718,40.4452
+6,Guzmán el Bueno,-3.7118,40.446
+7,Hospital del Henares,-3.5204,40.419
+7,Henares,-3.5283,40.4231
+7,San Fernando,-3.5366,40.4252
+7,La Rambla,-3.548,40.4258
+7,Coslada Central,-3.5595,40.4248
+7,Barrio del Puerto,-3.5714,40.4249
+7,Estadio Metropolitano,-3.5997,40.4362
+7,Las Musas,-3.6069,40.4323
+7,San Blas,-3.6148,40.4283
+7,Simancas,-3.6264,40.4281
+7,García Noblejas,-3.6337,40.4302
+7,Ascao,-3.6402,40.4301
+7,Pueblo Nuevo,-3.6441,40.4357
+7,Barrio de la Concepción,-3.6521,40.4385
+7,Parque de las Avenidas,-3.6625,40.4377
+7,Cartagena,-3.6743,40.4394
+7,Avenida de América,-3.6766,40.4388
+7,Gregorio Marañón,-3.6916,40.4382
+7,Alonso Cano,-3.6997,40.4384
+7,Canal,-3.7047,40.4391
+7,Islas Filipinas,-3.7126,40.439
+7,Guzmán el Bueno,-3.7118,40.446
+7,Francos Rodríguez,-3.7126,40.4571
+7,Valdezarza,-3.7151,40.4633
+7,Antonio Machado,-3.7169,40.4705
+7,Peñagrande,-3.7145,40.4764
+7,Avenida de la Ilustración,-3.7187,40.4816
+7,Lacoma,-3.723,40.4851
+7,Arroyofresno,-3.7261,40.4905
+7,Pitis,-3.7282,40.4947
+8,Nuevos Ministerios,-3.6918,40.4455
+8,Colombia,-3.6766,40.4578
+8,Pinar del Rey,-3.6483,40.4674
+8,Mar de Cristal,-3.6267,40.4695
+8,Feria de Madrid,-3.6156,40.4633
+8,Aeropuerto T1-T2-T3,-3.5694,40.4678
+8,Barajas,-3.5828,40.4746
+8,Aeropuerto T4,-3.5938,40.4916
+9,Paco de Lucía,-3.7088,40.5086
+9,Mirasierra,-3.7051,40.4968
+9,Herrera Oria,-3.7077,40.4839
+9,Barrio del Pilar,-3.7032,40.4764
+9,Ventilla,-3.6961,40.4716
+9,Plaza de Castilla,-3.6892,40.4668
+9,Duque de Pastrana,-3.6797,40.4674
+9,Pío XII,-3.6768,40.4619
+9,Colombia,-3.6766,40.4578
+9,Concha Espina,-3.6775,40.4518
+9,Cruz del Rayo,-3.6784,40.4452
+9,Avenida de América,-3.6766,40.4388
+9,Núñez de Balboa,-3.6826,40.4319
+9,Príncipe de Vergara,-3.6802,40.4228
+9,Ibiza,-3.6782,40.4184
+9,Sainz de Baranda,-3.6698,40.415
+9,Estrella,-3.6616,40.4124
+9,Vinateros,-3.6525,40.4101
+9,Artilleros,-3.6433,40.4069
+9,Pavones,-3.6358,40.4026
+9,Valdebernardo,-3.6225,40.3986
+9,Vicálvaro,-3.6067,40.4042
+9,San Cipriano,-3.5996,40.4011
+9,Puerta de Arganda,-3.5937,40.3995
+9,Rivas-Urbanizaciones,-3.5416,40.3708
+9,Rivas Futura,-3.5248,40.3421
+9,Rivas Vaciamadrid,-3.5186,40.3235
+9,La Poveda,-3.4842,40.3155
+9,Arganda del Rey,-3.4475,40.3016
+10,Hospital Infanta Sofía,-3.6128,40.5566
+10,Reyes Católicos,-3.6231,40.5518
+10,Baunatal,-3.6315,40.5488
+10,Manuel de Falla,-3.6416,40.5441
+10,Marqués de la Valdavia,-3.6393,40.5398
+10,La Moraleja,-3.6346,40.5312
+10,La Granja,-3.6491,40.5269
+10,Ronda de la Comunicación,-3.6559,40.5135
+10,Las Tablas,-3.6687,40.5065
+10,Montecarmelo,-3.6953,40.5056
+10,Tres Olivos,-3.6946,40.4947
+10,Fuencarral,-3.6941,40.4851
+10,Begoña,-3.6865,40.4801
+10,Chamartín,-3.6826,40.4722
+10,Plaza de Castilla,-3.6892,40.4668
+10,Cuzco,-3.6902,40.4586
+10,Santiago Bernabéu,-3.6906,40.4518
+10,Nuevos Ministerios,-3.6918,40.4455
+10,Gregorio Marañón,-3.6916,40.4382
+10,Alonso Martínez,-3.696,40.4276
+10,Tribunal,-3.7005,40.426
+10,Plaza de España,-3.7122,40.423
+10,Príncipe Pío,-3.72,40.421
+10,Lago,-3.734,40.4168
+10,Batán,-3.7547,40.4076
+10,Casa de Campo,-3.7602,40.4032
+10,Colonia Jardín,-3.7744,40.3952
+10,Aviación Española,-3.7831,40.3831
+10,Cuatro Vientos,-3.7915,40.3789
+10,Joaquín Vilumbrales,-3.8048,40.3524
+10,Puerta del Sur,-3.8115,40.3444
+11,Plaza Elíptica,-3.7166,40.385
+11,Abrantes,-3.7276,40.3812
+11,Pan Bendito,-3.7335,40.3752
+11,San Francisco,-3.7431,40.3725
+11,Carabanchel Alto,-3.7523,40.3688
+11,La Peseta,-3.757,40.3602
+11,La Fortuna,-3.7778,40.3585
+12,Puerta del Sur,-3.8115,40.3444
+12,Parque Lisboa,-3.8213,40.3478
+12,Alcorcón Central,-3.8341,40.3486
+12,Parque Oeste,-3.8488,40.3435
+12,Universidad Rey Juan Carlos,-3.8687,40.3341
+12,Móstoles Central,-3.8624,40.3228
+12,Pradillo,-3.8616,40.3182
+12,Hospital de Móstoles,-3.8741,40.3129
+12,Manuela Malasaña,-3.8569,40.3061
+12,Loranca,-3.8347,40.2976
+12,Hospital de Fuenlabrada,-3.8182,40.2858
+12,Parque Europa,-3.8045,40.2831
+12,Fuenlabrada Central,-3.7946,40.2839
+12,Parque de los Estados,-3.7845,40.2882
+12,Arroyo Culebro,-3.7554,40.2828
+12,Conservatorio,-3.7402,40.2916
+12,Alonso de Mendoza,-3.7336,40.2979
+12,Getafe Central,-3.7319,40.3061
+12,Juan de la Cierva,-3.7214,40.3155
+12,El Casar,-3.7142,40.3188
+12,Los Espartales,-3.7132,40.3255
+12,El Bercial,-3.7366,40.3308
+12,Carrascal,-3.7505,40.3332
+12,Julián Besteiro,-3.7582,40.3349
+12,Casa del Reloj,-3.7661,40.3338
+12,Hospital Severo Ochoa,-3.7656,40.3242
+12,Leganés Central,-3.7699,40.3315
+12,San Nicasio,-3.7766,40.3355
+R,Ópera,-3.709,40.4182
+R,Príncipe Pío,-3.72,40.421

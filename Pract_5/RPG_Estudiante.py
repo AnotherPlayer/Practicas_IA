@@ -207,7 +207,7 @@ class InterfazLaberinto:
         
         # Regla de Conocimiento: Si entra a 'O' sin llave, mostramos el rechazo de inmediato
         if self.nodo_actual.id == 'O' and "Llave Maestra" not in self.inventario:
-            mensaje_extra += "\n\nSurge una criatura monstruosa de carpetas y tinta...\n'¡No puedes pasar! De seguro todavia debes el Servicio Social, no has certificado el de Ingles y ni el RFC tramitado tienes. ¡Fuera de aqui!'"
+            mensaje_extra += "\n\nSurge una criatura monstruosa de carpetas y tinta... el S.A.T. (Supervisor de Actas y Trámites) \n'¡No puedes pasar! De seguro todavia debes el Servicio Social, no has certificado el de Ingles y ni el RFC tramitado tienes. ¡Fuera de aqui!'"
 
         self.texto_historia.config(text=mensaje_extra)
 

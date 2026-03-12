@@ -553,7 +553,7 @@ def main():
 
     pos_x = 0
 
-    #intro()
+    intro()
 
     os.system('cls' if os.name == 'nt' else 'clear')
     print("Escribe caminar y despues enter, seguido del numero de camino que quieres tomar")

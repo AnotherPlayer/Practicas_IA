@@ -1,0 +1,276 @@
+Linea,Estacion1,Estacion2,Distancia_km
+1,Pinar de Chamartín,Bambú,0.888
+1,Bambú,Chamartín,0.721
+1,Chamartín,Plaza de Castilla,0.82
+1,Plaza de Castilla,Valdeacederas,0.64
+1,Valdeacederas,Tetuán,0.414
+1,Tetuán,Alvarado,0.75
+1,Alvarado,Cuatro Caminos,0.753
+1,Cuatro Caminos,Ríos Rosas,0.786
+1,Ríos Rosas,Iglesia,0.701
+1,Iglesia,Bilbao,0.785
+1,Bilbao,Tribunal,0.353
+1,Tribunal,Gran Vía,0.676
+1,Gran Vía,Sol,0.367
+1,Sol,Tirso de Molina,0.467
+1,Tirso de Molina,Antón Martín,0.493
+1,Antón Martín,Estación del Arte,0.607
+1,Estación del Arte,Atocha,1.008
+1,Atocha,Menéndez Pelayo,0.613
+1,Menéndez Pelayo,Pacífico,0.62
+1,Pacífico,Puente de Vallecas,0.736
+1,Puente de Vallecas,Nueva Numancia,0.515
+1,Nueva Numancia,Portazgo,0.652
+1,Portazgo,Buenos Aires,0.552
+1,Buenos Aires,Alto del Arenal,0.577
+1,Alto del Arenal,Miguel Hernández,0.644
+1,Miguel Hernández,Sierra de Guadalupe,1.005
+1,Sierra de Guadalupe,Villa de Vallecas,0.336
+1,Villa de Vallecas,Congosto,0.705
+1,Congosto,La Gavia,0.729
+1,La Gavia,Las Suertes,1.159
+1,Las Suertes,Valdecarros,0.655
+10,Hospital Infanta Sofía,Reyes Católicos,1.021
+10,Reyes Católicos,Baunatal,0.784
+10,Baunatal,Manuel de Falla,1.001
+10,Manuel de Falla,Marqués de la Valdavia,0.516
+10,Marqués de la Valdavia,La Moraleja,1.035
+10,La Moraleja,La Granja,1.315
+10,La Granja,Ronda de la Comunicación,1.597
+10,Ronda de la Comunicación,Las Tablas,1.333
+10,Las Tablas,Montecarmelo,2.251
+10,Montecarmelo,Tres Olivos,1.213
+10,Tres Olivos,Fuencarral,1.068
+10,Fuencarral,Begoña,0.85
+10,Begoña,Chamartín,0.938
+10,Chamartín,Plaza de Castilla,0.82
+10,Plaza de Castilla,Cuzco,0.916
+10,Cuzco,Santiago Bernabéu,0.757
+10,Santiago Bernabéu,Nuevos Ministerios,0.708
+10,Nuevos Ministerios,Gregorio Marañón,0.812
+10,Gregorio Marañón,Alonso Martínez,1.236
+10,Alonso Martínez,Tribunal,0.42
+10,Tribunal,Plaza de España,1.045
+10,Plaza de España,Príncipe Pío,0.697
+10,Príncipe Pío,Lago,1.274
+10,Lago,Batán,2.029
+10,Batán,Casa de Campo,0.675
+10,Casa de Campo,Colonia Jardín,1.496
+10,Colonia Jardín,Aviación Española,1.534
+10,Aviación Española,Cuatro Vientos,0.851
+10,Cuatro Vientos,Joaquín Vilumbrales,3.155
+10,Joaquín Vilumbrales,Puerta del Sur,1.055
+11,Plaza Elíptica,Abrantes,1.023
+11,Abrantes,Pan Bendito,0.834
+11,Pan Bendito,San Francisco,0.867
+11,San Francisco,Carabanchel Alto,0.881
+11,Carabanchel Alto,La Peseta,1.036
+11,La Peseta,La Fortuna,1.772
+12,Puerta del Sur,Parque Lisboa,0.913
+12,Parque Lisboa,Alcorcón Central,1.088
+12,Alcorcón Central,Parque Oeste,1.369
+12,Parque Oeste,Universidad Rey Juan Carlos,1.984
+12,Universidad Rey Juan Carlos,Móstoles Central,1.365
+12,Móstoles Central,Pradillo,0.516
+12,Pradillo,Hospital de Móstoles,1.213
+12,Hospital de Móstoles,Manuela Malasaña,1.643
+12,Manuela Malasaña,Loranca,2.107
+12,Loranca,Hospital de Fuenlabrada,1.918
+12,Hospital de Fuenlabrada,Parque Europa,1.2
+12,Parque Europa,Fuenlabrada Central,0.844
+12,Fuenlabrada Central,Parque de los Estados,0.981
+12,Parque de los Estados,Arroyo Culebro,2.54
+12,Arroyo Culebro,Conservatorio,1.619
+12,Conservatorio,Alonso de Mendoza,0.897
+12,Alonso de Mendoza,Getafe Central,0.923
+12,Getafe Central,Juan de la Cierva,1.373
+12,Juan de la Cierva,El Casar,0.712
+12,El Casar,Los Espartales,0.75
+12,Los Espartales,El Bercial,2.069
+12,El Bercial,Carrascal,1.208
+12,Carrascal,Julián Besteiro,0.679
+12,Julián Besteiro,Casa del Reloj,0.681
+12,Casa del Reloj,Hospital Severo Ochoa,1.068
+12,Hospital Severo Ochoa,Leganés Central,0.89
+12,Leganés Central,San Nicasio,0.721
+2,Las Rosas,Avenida de Guadalajara,0.312
+2,Avenida de Guadalajara,Alsacia,0.687
+2,Alsacia,La Almudena,1.377
+2,La Almudena,La Elipa,1.305
+2,La Elipa,Ventas,0.923
+2,Ventas,Manuel Becerra,0.87
+2,Manuel Becerra,Goya,1.104
+2,Goya,Príncipe de Vergara,0.463
+2,Príncipe de Vergara,Retiro,0.587
+2,Retiro,Banco de España,0.708
+2,Banco de España,Sevilla,0.428
+2,Sevilla,Sol,0.345
+2,Sol,Ópera,0.504
+2,Ópera,Santo Domingo,0.356
+2,Santo Domingo,Noviciado,0.51
+2,Noviciado,San Bernardo,0.554
+2,San Bernardo,Quevedo,0.407
+2,Quevedo,Canal,0.613
+2,Canal,Cuatro Caminos,0.935
+3,Villaverde Alto,San Cristóbal,1.406
+3,San Cristóbal,Villaverde Bajo-Cruce,0.996
+3,Villaverde Bajo-Cruce,Ciudad de los Ángeles,0.871
+3,Ciudad de los Ángeles,San Fermín-Orcasur,1.324
+3,San Fermín-Orcasur,Hospital 12 de Octubre,0.612
+3,Hospital 12 de Octubre,Almendrales,0.839
+3,Almendrales,Legazpi,0.943
+3,Legazpi,Delicias,0.829
+3,Delicias,Palos de la Frontera,0.63
+3,Palos de la Frontera,Embajadores,0.66
+3,Embajadores,Lavapiés,0.381
+3,Lavapiés,Sol,0.94
+3,Sol,Callao,0.415
+3,Callao,Plaza de España,0.64
+3,Plaza de España,Ventura Rodríguez,0.435
+3,Ventura Rodríguez,Argüelles,0.459
+3,Argüelles,Moncloa,0.53
+4,Argüelles,San Bernardo,1.151
+4,San Bernardo,Bilbao,0.154
+4,Bilbao,Alonso Martínez,0.544
+4,Alonso Martínez,Colón,0.504
+4,Colón,Serrano,0.416
+4,Serrano,Velázquez,0.408
+4,Velázquez,Goya,0.511
+4,Goya,Lista,0.634
+4,Lista,Diego de León,0.49
+4,Diego de León,Avenida de América,0.503
+4,Avenida de América,Prosperidad,0.621
+4,Prosperidad,Alfonso XIII,0.777
+4,Alfonso XIII,Avenida de la Paz,1.01
+4,Avenida de la Paz,Arturo Soria,0.299
+4,Arturo Soria,Esperanza,0.893
+4,Esperanza,Canillas,1.088
+4,Canillas,Mar de Cristal,0.928
+4,Mar de Cristal,San Lorenzo,1.186
+4,San Lorenzo,Parque de Santa María,0.682
+4,Parque de Santa María,Hortaleza,0.743
+4,Hortaleza,Manoteras,0.976
+4,Manoteras,Pinar de Chamartín,0.41
+5,Alameda de Osuna,El Capricho,0.685
+5,El Capricho,Canillejas,1.294
+5,Canillejas,Torre Arias,0.984
+5,Torre Arias,Suanzes,1.008
+5,Suanzes,Ciudad Lineal,0.946
+5,Ciudad Lineal,Pueblo Nuevo,0.539
+5,Pueblo Nuevo,Quintana,0.526
+5,Quintana,El Carmen,0.752
+5,El Carmen,Ventas,0.35
+5,Ventas,Diego de León,1.888
+5,Diego de León,Núñez de Balboa,0.685
+5,Núñez de Balboa,Rubén Darío,0.484
+5,Rubén Darío,Alonso Martínez,0.828
+5,Alonso Martínez,Chueca,0.56
+5,Chueca,Gran Vía,0.448
+5,Gran Vía,Callao,0.322
+5,Callao,Ópera,0.364
+5,Ópera,La Latina,0.793
+5,La Latina,Puerta de Toledo,0.562
+5,Puerta de Toledo,Acacias,0.806
+5,Acacias,Pirámides,0.749
+5,Pirámides,Marqués de Vadillo,0.575
+5,Marqués de Vadillo,Urgel,0.876
+5,Urgel,Oporto,0.713
+5,Oporto,Vista Alegre,0.745
+5,Vista Alegre,Carabanchel,0.542
+5,Carabanchel,Eugenia de Montijo,0.568
+5,Eugenia de Montijo,Aluche,0.978
+5,Aluche,Empalme,0.619
+5,Empalme,Campamento,0.484
+5,Campamento,Casa de Campo,1.204
+6,Cuatro Caminos,Nuevos Ministerios,1.073
+6,Nuevos Ministerios,República Argentina,0.714
+6,República Argentina,Avenida de América,0.89
+6,Avenida de América,Diego de León,0.503
+6,Diego de León,Manuel Becerra,1.235
+6,Manuel Becerra,O'Donnell,0.7
+6,O'Donnell,Sainz de Baranda,0.877
+6,Sainz de Baranda,Conde de Casal,0.921
+6,Conde de Casal,Pacífico,0.93
+6,Pacífico,Méndez Álvaro,0.672
+6,Méndez Álvaro,Arganzuela-Planetario,0.861
+6,Arganzuela-Planetario,Legazpi,0.432
+6,Legazpi,Usera,0.966
+6,Usera,Plaza Elíptica,1.062
+6,Plaza Elíptica,Opañel,0.538
+6,Opañel,Oporto,0.682
+6,Oporto,Carpetana,1.026
+6,Carpetana,Laguna,0.775
+6,Laguna,Lucero,0.568
+6,Lucero,Alto de Extremadura,0.923
+6,Alto de Extremadura,Puerta del Ángel,0.881
+6,Puerta del Ángel,Príncipe Pío,1.013
+6,Príncipe Pío,Argüelles,1.056
+6,Argüelles,Moncloa,0.53
+6,Moncloa,Ciudad Universitaria,1.159
+6,Ciudad Universitaria,Vicente Aleixandre,0.744
+6,Vicente Aleixandre,Guzmán el Bueno,0.532
+7,Hospital del Henares,Henares,0.809
+7,Henares,San Fernando,0.74
+7,San Fernando,La Rambla,0.967
+7,La Rambla,Coslada Central,0.98
+7,Coslada Central,Barrio del Puerto,1.007
+7,Barrio del Puerto,Estadio Metropolitano,2.705
+7,Estadio Metropolitano,Las Musas,0.748
+7,Las Musas,San Blas,0.803
+7,San Blas,Simancas,0.982
+7,Simancas,García Noblejas,0.661
+7,García Noblejas,Ascao,0.55
+7,Ascao,Pueblo Nuevo,0.705
+7,Pueblo Nuevo,Barrio de la Concepción,0.745
+7,Barrio de la Concepción,Parque de las Avenidas,0.885
+7,Parque de las Avenidas,Cartagena,1.016
+7,Cartagena,Avenida de América,0.206
+7,Avenida de América,Gregorio Marañón,1.271
+7,Gregorio Marañón,Alonso Cano,0.686
+7,Alonso Cano,Canal,0.43
+7,Canal,Islas Filipinas,0.669
+7,Islas Filipinas,Guzmán el Bueno,0.781
+7,Guzmán el Bueno,Francos Rodríguez,1.236
+7,Francos Rodríguez,Valdezarza,0.721
+7,Valdezarza,Antonio Machado,0.815
+7,Antonio Machado,Peñagrande,0.687
+7,Peñagrande,Avenida de la Ilustración,0.679
+7,Avenida de la Ilustración,Lacoma,0.533
+7,Lacoma,Arroyofresno,0.655
+7,Arroyofresno,Pitis,0.5
+8,Nuevos Ministerios,Colombia,1.877
+8,Colombia,Pinar del Rey,2.621
+8,Pinar del Rey,Mar de Cristal,1.842
+8,Mar de Cristal,Feria de Madrid,1.165
+8,Feria de Madrid,Aeropuerto T1-T2-T3,3.94
+8,Aeropuerto T1-T2-T3,Barajas,1.363
+8,Barajas,Aeropuerto T4,2.107
+9,Paco de Lucía,Mirasierra,1.349
+9,Mirasierra,Herrera Oria,1.451
+9,Herrera Oria,Barrio del Pilar,0.917
+9,Barrio del Pilar,Ventilla,0.803
+9,Ventilla,Plaza de Castilla,0.791
+9,Plaza de Castilla,Duque de Pastrana,0.806
+9,Duque de Pastrana,Pío XII,0.659
+9,Pío XII,Colombia,0.456
+9,Colombia,Concha Espina,0.672
+9,Concha Espina,Cruz del Rayo,0.738
+9,Cruz del Rayo,Avenida de América,0.728
+9,Avenida de América,Núñez de Balboa,0.92
+9,Núñez de Balboa,Príncipe de Vergara,1.032
+9,Príncipe de Vergara,Ibiza,0.518
+9,Ibiza,Sainz de Baranda,0.805
+9,Sainz de Baranda,Estrella,0.752
+9,Estrella,Vinateros,0.812
+9,Vinateros,Artilleros,0.856
+9,Artilleros,Pavones,0.795
+9,Pavones,Valdebernardo,1.211
+9,Valdebernardo,Vicálvaro,1.476
+9,Vicálvaro,San Cipriano,0.693
+9,San Cipriano,Puerta de Arganda,0.53
+9,Puerta de Arganda,Rivas-Urbanizaciones,5.446
+9,Rivas-Urbanizaciones,Rivas Futura,3.494
+9,Rivas Futura,Rivas Vaciamadrid,2.134
+9,Rivas Vaciamadrid,La Poveda,3.049
+9,La Poveda,Arganda del Rey,3.475
+R,Ópera,Príncipe Pío,0.982
