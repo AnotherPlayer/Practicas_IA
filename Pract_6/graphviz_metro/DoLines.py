@@ -1,8 +1,11 @@
 import graphviz
+import pandas as pd
 
 map = graphviz.Digraph(comment='Metro de Madrid')
+files = pd.read_csv('')
 
 def linea1(map):
+
     map.node('Pinar de Chamartín')
     map.node('Bambú')
     map.node('Chamartín')
