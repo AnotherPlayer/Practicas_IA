@@ -101,7 +101,7 @@ def a_star(grafo, inicio, fin, heuristica=None):
     camino.reverse()
     return camino, dist[fin]
 
-def dibujar_grafo(grafo, nombre_archivo='metro_madrid'):
+def dibujar_grafo(grafo, nombre_archivo='MetroMadrid'):
     """
     Genera una representación gráfica del grafo usando Graphviz.
     Guarda la imagen como PNG y la abre con el visor predeterminado.

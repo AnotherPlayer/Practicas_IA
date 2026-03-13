@@ -1,0 +1,202 @@
+Estacion_Origen,Estacion_Destino,Linea,Distancia
+Indios Verdes,Deportivo 18 de Marzo,1,950
+Deportivo 18 de Marzo,Euzkaro,1,650
+Euzkaro,Potrero,1,720
+Potrero,La Raza,1,850
+La Raza,Circuito,1,600
+Circuito,San Simón,1,550
+San Simón,Manuel González,1,480
+Manuel González,Buenavista,1,900
+Buenavista,El Chopo,1,400
+El Chopo,Revolución,1,550
+Revolución,Plaza de la República,1,450
+Plaza de la República,Reforma,1,600
+Reforma,Hamburgo,1,500
+Hamburgo,Glorieta Insurgentes,1,450
+Glorieta Insurgentes,Durango,1,500
+Durango,Álvaro Obregón,1,450
+Álvaro Obregón,Sonora,1,600
+Sonora,Campeche,1,400
+Campeche,Chilpancingo,1,550
+Chilpancingo,Nuevo León,1,450
+Nuevo León,La Piedad,1,700
+La Piedad,Poliforum,1,650
+Poliforum,Nápoles,1,500
+Nápoles,Colonia del Valle,1,550
+Colonia del Valle,Ciudad de los Deportes,1,600
+Ciudad de los Deportes,Parque Hundido,1,450
+Parque Hundido,Félix Cuevas,1,650
+Félix Cuevas,Río Churubusco,1,800
+Río Churubusco,Teatro de los Insurgentes,1,550
+Teatro de los Insurgentes,José María Velasco,1,400
+José María Velasco,Francia,1,450
+Francia,Olivo,1,500
+Olivo,Altavista,1,650
+Altavista,La Bombilla,1,450
+La Bombilla,Doctor Gálvez,1,600
+Doctor Gálvez,Ciudad Universitaria,1,1200
+Ciudad Universitaria,Centro Cultural Universitario,1,950
+Centro Cultural Universitario,Perisur,1,850
+Perisur,Villa Olímpica,1,700
+Villa Olímpica,Corregidora,1,650
+Corregidora,Ayuntamiento,1,500
+Ayuntamiento,Fuentes Brotantes,1,800
+Fuentes Brotantes,Santa Úrsula,1,650
+Santa Úrsula,La Joya,1,750
+La Joya,El Caminero,1,800
+Tepalcates,General Antonio de León,2,650
+General Antonio de León,Canal de San Juan,2,700
+Canal de San Juan,Nicolás Bravo,2,550
+Nicolás Bravo,CCH Oriente,2,800
+CCH Oriente,Leyes de Reforma,2,600
+Leyes de Reforma,Del Moral,2,500
+Del Moral,Río Frío,2,750
+Río Frío,Rojo Gómez,2,650
+Rojo Gómez,Río Mayo,2,550
+Río Mayo,Río Tecolutla,2,450
+Río Tecolutla,El Rodeo,2,600
+El Rodeo,UPIICSA,2,500
+UPIICSA,Iztacalco,2,700
+Iztacalco,Goma,2,450
+Goma,Tlacotal,2,550
+Tlacotal,Canela,2,400
+Canela,Coyuya,2,650
+Coyuya,La Viga,2,800
+La Viga,Andrés Molina,2,600
+Andrés Molina,Las Américas,2,550
+Las Américas,Xola,2,500
+Xola,Álamos,2,450
+Álamos,Centro SCOP,2,600
+Centro SCOP,Doctor Vértiz,2,550
+Doctor Vértiz,Etiopía,2,650
+Etiopía,Amores,2,500
+Amores,Viaducto,2,600
+Viaducto,Nuevo León,2,850
+Nuevo León,Escandón,2,550
+Escandón,Patriotismo,2,650
+Patriotismo,De La Salle,2,600
+De La Salle,Parque Lira,2,700
+Parque Lira,Tacubaya,2,800
+Tenayuca,San José de la Escalera,3,750
+San José de la Escalera,Progreso Nacional,3,600
+Progreso Nacional,Tres Anegas,3,550
+Tres Anegas,Júpiter,3,650
+Júpiter,La Patera,3,700
+La Patera,Poniente 146,3,500
+Poniente 146,Poniente 134,3,450
+Poniente 134,Poniente 128,3,550
+Poniente 128,Magdalena de las Salinas,3,600
+Magdalena de las Salinas,Coltongo,3,650
+Coltongo,Cuitláhuac,3,700
+Cuitláhuac,Héroe de Nacozari,3,550
+Héroe de Nacozari,Hospital La Raza,3,500
+Hospital La Raza,La Raza,3,450
+La Raza,Tolnahuac,3,600
+Tolnahuac,San Simón,3,550
+San Simón,Manuel González,3,480
+Manuel González,Buenavista,3,900
+Buenavista,Mina,3,450
+Mina,Hidalgo,3,500
+Hidalgo,Juárez,3,550
+Juárez,Balderas,3,600
+Balderas,Cuauhtémoc,3,500
+Cuauhtémoc,Jardín Pushkin,3,550
+Jardín Pushkin,Hospital General,3,650
+Hospital General,Dr. Márquez,3,450
+Dr. Márquez,Centro Médico,3,500
+Centro Médico,Obrero Mundial,3,600
+Obrero Mundial,Etiopía,3,550
+Etiopía,Luz Saviñón,3,450
+Luz Saviñón,Eugenia,3,500
+Eugenia,División del Norte,3,650
+División del Norte,Pueblo Santa Cruz Atoyac,3,750
+Buenavista,Delegación Cuauhtémoc,4,450
+Delegación Cuauhtémoc,México Tenochtitlan,4,500
+México Tenochtitlan,Museo de San Carlos,4,400
+Museo de San Carlos,Hidalgo,4,550
+Hidalgo,Bellas Artes,4,600
+Bellas Artes,Teatro Blanquita,4,450
+Teatro Blanquita,República de Chile,4,500
+República de Chile,República de Argentina,4,450
+República de Argentina,Teatro del Pueblo,4,550
+Teatro del Pueblo,Mixcalco,4,600
+Mixcalco,Ferrocarril de Cintura,4,650
+Ferrocarril de Cintura,Morelos,4,500
+Morelos,Archivo General de la Nación,4,700
+Archivo General de la Nación,San Lázaro,4,650
+Río de los Remedios,314 Memorial New's Divine,5,800
+314 Memorial New's Divine,5 de Mayo,5,650
+5 de Mayo,Vasco de Quiroga,5,700
+Vasco de Quiroga,El Coyol,5,600
+El Coyol,Preparatoria 3,5,550
+Preparatoria 3,San Juan de Aragón,5,750
+San Juan de Aragón,Río de Guadalupe,5,650
+Río de Guadalupe,Talismán,5,500
+Talismán,Victoria,5,550
+Victoria,Oriente 101,5,600
+Oriente 101,Hospital General La Villa,5,850
+Hospital General La Villa,Martín Carrera,5,700
+Martín Carrera,Delegación Gustavo A. Madero,5,650
+Delegación Gustavo A. Madero,Misterios,5,800
+Misterios,Canal del Norte,5,950
+Canal del Norte,Deportivo Eduardo Molina,5,750
+Deportivo Eduardo Molina,Mercado Morelos,5,600
+Mercado Morelos,Archivo General de la Nación,5,650
+Archivo General de la Nación,San Lázaro,5,500
+El Rosario,Colegio de Bachilleres 1,6,700
+Colegio de Bachilleres 1,De las Culturas,6,650
+De las Culturas,Ferrocarriles Nacionales,6,800
+Ferrocarriles Nacionales,UAM Azcapotzalco,6,600
+UAM Azcapotzalco,Tecnoparque,6,550
+Tecnoparque,Norte 59,6,750
+Norte 59,Norte 45,6,650
+Norte 45,Vallejo,6,500
+Vallejo,Poniente 146,6,850
+Poniente 146,Poniente 134,6,450
+Poniente 134,Instituto del Petróleo,6,700
+Instituto del Petróleo,San Bartolo,6,600
+San Bartolo,Instituto Politécnico Nacional,6,650
+Instituto Politécnico Nacional,Riobamba,6,550
+Riobamba,Deportivo 18 de Marzo,6,800
+Deportivo 18 de Marzo,La Villa,6,750
+La Villa,Hospital Infantil La Villa,6,500
+Hospital Infantil La Villa,De los Misterios,6,450
+De los Misterios,Loreto Fabela,6,900
+Loreto Fabela,San Juan de Aragón,6,750
+San Juan de Aragón,Gran Canal,6,650
+Gran Canal,Pueblo San Juan de Aragón,6,600
+Pueblo San Juan de Aragón,Deportivo Los Galeana,6,800
+Deportivo Los Galeana,Ampliación Providencia,6,700
+Ampliación Providencia,Volcán de Fuego,6,550
+Volcán de Fuego,La Pradera,6,650
+La Pradera,Colegio de Bachilleres 9,6,500
+Colegio de Bachilleres 9,Villa de Aragón,6,800
+Indios Verdes,Hospital Infantil La Villa,7,900
+Hospital Infantil La Villa,De los Misterios,7,450
+De los Misterios,Garrido,7,550
+Garrido,Delegación Gustavo A. Madero,7,400
+Delegación Gustavo A. Madero,La Villa,7,500
+La Villa,Necaxa,7,650
+Necaxa,Excélsior,7,450
+Excélsior,Robles Domínguez,7,550
+Robles Domínguez,Clave,7,600
+Clave,Misterios,7,500
+Misterios,Mercado Beethoven,7,700
+Mercado Beethoven,Peralvillo,7,450
+Peralvillo,Tres Culturas,7,600
+Tres Culturas,Glorieta Cuitláhuac,7,550
+Glorieta Cuitláhuac,Garibaldi,7,750
+Garibaldi,Glorieta de Simón Bolívar,7,600
+Glorieta de Simón Bolívar,Hidalgo,7,500
+Hidalgo,El Caballito,7,450
+El Caballito,Glorieta de Colón,7,550
+Glorieta de Colón,París,7,400
+París,Reforma,7,450
+Reforma,Hamburgo,7,500
+Hamburgo,El Ángel,7,650
+El Ángel,La Diana,7,550
+La Diana,Chapultepec,7,700
+Chapultepec,Gandhi,7,600
+Gandhi,Antropología,7,550
+Antropología,Auditorio,7,800
+Auditorio,Campo Marte,7,650
